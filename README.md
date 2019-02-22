@@ -1,9 +1,11 @@
 ## Weather-Chatbot
 
-![weather](/Users/nathanamar/Documents/github/Weather-Chatbot/Weather-Chatbot/weather.png)
+![weather1](/Users/nathanamar/Documents/github/Weather-Chatbot/Weather-Chatbot/weather1.jpg)
+
 
 
 ### Get the current weather anywhere in the world.
+
 
 
 ## Run the weather bot
@@ -31,6 +33,7 @@
 
 
 ![demo](/Users/nathanamar/Documents/github/Weather-Chatbot/Weather-Chatbot/demo.png)
+
 
 ## Licence
 
