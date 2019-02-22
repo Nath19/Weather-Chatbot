@@ -1,6 +1,6 @@
 ## Weather-Chatbot
 
-![weather1](/Users/nathanamar/Documents/github/Weather-Chatbot/Weather-Chatbot/weather1.jpg)
+![weather1](weather1.jpg)
 
 
 
@@ -32,8 +32,7 @@
 
 
 
-![demo](/Users/nathanamar/Documents/github/Weather-Chatbot/Weather-Chatbot/demo.png)
-
+![demo](demo.png)
 
 ## Licence
 
